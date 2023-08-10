@@ -33,7 +33,7 @@ GitHub Desktop features an intuitive interface designed to simplify version cont
 To start working on an existing repository:
 
 1. **Clone**: Click the "Clone a Repository" button in the upper-right corner.
-   
+
 2. **Choose Repository**: Browse your repositories or paste the repository URL to clone it.
 
 3. **Local Path**: Choose where to save the repository on your local machine.
